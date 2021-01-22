@@ -1,0 +1,24 @@
+<data>
+	<Raetsel>
+		<name>tester42</name>
+		<description>antwort auf alles</description>
+		<difficulty>ez pz</difficulty>
+		<steps>2</steps>
+	</Raetsel>
+	<Steps>
+		<Step1>
+			<name>Die Antwort auf alles</name>
+			<hint>Hichikers Guide To The Galaxy</hint>
+			<sensor>Tastenfeld</sensor>
+			<exactvalue>42</exactvalue>
+			<max_range>0</max_range>
+		</Step1>
+		<Step2>
+			<name>Die halbe Wahrheit</name>
+			<hint>42/2</hint>
+			<sensor>Tastenfeld</sensor>
+			<exactvalue>21</exactvalue>
+			<max_range>0</max_range>
+		</Step2>
+	</Steps>
+</data>
